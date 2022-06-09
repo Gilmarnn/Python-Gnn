@@ -1,0 +1,5 @@
+# CALCULAR FATORIAL VIA BIBLIOTECAS:
+from math import factorial 
+n = int(input('Digite um numero para saber seu factoral: )
+f = factorial (n)
+print (' O farorail de {} é {}. '.format(n,f))
